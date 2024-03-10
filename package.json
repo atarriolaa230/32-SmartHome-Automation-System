@@ -1,0 +1,26 @@
+{
+"name": "32-ikvo-dvfg",
+"version": "1.0.0",
+"description": "SmartHome Automation System",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/atarriolaa230/32-SmartHome-Automation-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "atarriolaa230",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
